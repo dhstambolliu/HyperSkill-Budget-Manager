@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/And always these rules" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Capture variables" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Find a correct syntax" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Single method" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/String reverser" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/What about context" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Abs method" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Correct names for methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Add new default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/What is a result" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/What is the reason for default methods" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expression closure" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Production of all numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
