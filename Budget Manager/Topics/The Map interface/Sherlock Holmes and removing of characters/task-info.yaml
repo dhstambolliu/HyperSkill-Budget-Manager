@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3655#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 8. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\ncase\nseal\nCorrect output:\n2\n\nYour code output:\n\
+    \n\nError:\nException in thread \"main\" java.lang.NumberFormatException: For\
+    \ input string: \"case\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\
+    \tat java.base/java.lang.Integer.parseInt(Integer.java:668)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:786)\n\
+    \tat SetUtils.getSetFromString(Main.java:8)\n\tat Main.main(Main.java:23)\n"
+  time: Tue, 25 Jan 2022 22:46:14 UTC
+record: -1

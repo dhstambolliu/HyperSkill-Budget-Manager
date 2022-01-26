@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: readCompleted
+- text: completed
+- text: isCompleted
+- text: setCompleted
+- text: getCompleted
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3021#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 25 Jan 2022 20:19:55 UTC
+record: -1
+selected_options:
+- 2
+- 3

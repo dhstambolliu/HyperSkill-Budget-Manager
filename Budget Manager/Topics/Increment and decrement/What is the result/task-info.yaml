@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 298
+- text: 299
+- text: 300
+- text: 301
+- text: 302
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5009#comment
+status: Solved
+record: -1

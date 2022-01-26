@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It must be the last statement in the body of the second constructor.
+- text: It must be the first statement in the body of the second constructor.
+- text: It must be the first statement in the body of the first constructor.
+- text: It can be placed anywhere in the body of the second constructor.
+- text: It must be the last statement in the body of the first constructor.
+- text: It can be placed anywhere in the body of the first constructor.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3286#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 25 Jan 2022 10:32:54 UTC
+record: -1
+selected_options:
+- 1

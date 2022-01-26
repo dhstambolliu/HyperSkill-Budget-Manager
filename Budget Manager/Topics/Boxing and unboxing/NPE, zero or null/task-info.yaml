@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: The variable <b>result</b> equals 0
+- text: It throws <b>NPE</b>
+- text: The variable <b>result</b> is <b>null</b>
+- text: It throws <b>ArithmeticException</b>
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6970#comment
+status: Solved
+record: -1
+custom_name: NPE, zero or null?

@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: there is no automatically generated constructor
+- text: a constructor taking <b>header</b> as the parameter
+- text: a constructor taking two parameters (<b>header</b> and <b>body</b>)
+- text: a no-argument constructor
+- text: 'two constructors: the first one takes <b>header</b>, the second one takes
+    <b>body</b>'
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3458#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 25 Jan 2022 20:12:49 UTC
+record: -1
+selected_options:
+- 3
